@@ -7,7 +7,7 @@ Projeto acadêmico desenvolvido para a atividade AC2.
 - Node.js
 - Express
 - JavaScript
-- Thunder Client
+- Postman
 
 ## Funcionalidades
 - Listar professores
